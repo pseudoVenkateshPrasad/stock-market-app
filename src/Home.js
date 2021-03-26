@@ -9,6 +9,7 @@ import ViewBtn from './components/ViewBtn';
 import TableHead from "./components/TableHead";
 import './style.css';
 import LogoBar from './components/LogoBar';
+import {CacheProvider} from './cacheContext';
 
 
 
@@ -30,7 +31,7 @@ function Home() {
       
       setLoading(false);
 
-      axios.get('http://localhost:3000/companies').then(response => {setCompany(response.data)})
+    axios.get('http://localhost:3000/companies').then(response => {setCompany(response.data)})
     },
     [])
 
@@ -41,7 +42,7 @@ function Home() {
 
   // rendered HTML
   return(
-    <>
+    <CacheProvider>
       <LogoBar />      
       <div className = "px-3 container d-flex justify-content-between align-items-center" >
         
@@ -74,7 +75,7 @@ function Home() {
         </table>
         <Pagination CompaniesPerPage = { CompaniesPerPage } TotalCompanies = {newCompanies.length}  paginate = {PaginateFunc}/>
       </div>
-    </>
+    </CacheProvider>
   )
 }
 
