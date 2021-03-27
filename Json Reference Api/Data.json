@@ -1,0 +1,380 @@
+{
+	"companies" : [
+		
+		{	
+			"id" : 1,
+			"name" : "Google",
+			"symbol" : "Googl",
+			"mCap" : "$ 1.366T ",
+			"cVal" : "$ 2026 "
+		},
+	   {	
+			"id" : 2,
+			"name" : "Facebook" ,
+			"symbol" : "Fb",
+			"mCap" : "$ 826.1B" ,
+			"cVal" : "$ 290"
+		},
+		{	
+			"id" : 3,
+			"name" : "Amazon" ,
+			"symbol" : "AMZN" ,
+			"mCap" : "$ 1.548T",
+			"cVal" : "$ 3074"
+		},
+		{	
+			"id" : 4 ,
+			"name" :"Apple" ,
+			"symbol" :"AAPL" ,
+			"mCap" : "$ 2.014T" ,
+			"cVal" : "$ 119.99" 
+		},
+		{	
+			"id" : 5 ,
+			"name" :"Microsoft Corp" ,
+			"symbol" :"MSFT" ,
+			"mCap" :"$ 1.737T" ,
+			"cVal" : "$ 230.35"
+		},
+		{	
+			"id" : 6 ,
+			"name" :"Tesla Inc" ,
+			"symbol" :"TSLA" ,
+			"mCap" :"$ 628.58B" ,
+			"cVal" :" $ 654.87" 
+		},
+		{	
+			"id" :7 ,
+			"name" :"Jpmorgon Chase" ,
+			"symbol" :"JPM" ,
+			"mCap" :"$ 473.41B",
+			"cVal" :"$ 155.14" 
+		},
+		{	
+			"id" :8 ,
+			"name" :"VISA Inc" ,
+			"symbol" :"VISA" ,
+			"mCap" :"$ 442.20T" ,
+			"cVal" :"$ 206.90" 
+		},
+		{	
+			"id" :9 ,
+			"name":"Walmart Inc" ,
+			"symbol" :"WMT" ,
+			"mCap" :"$ 372.73B" ,
+			"cVal" :"$ 131" 
+		},
+		{	
+			"id" :10 ,
+			"name" :"Mastercard Incorporated" ,
+			"symbol" :"MA" ,
+			"mCap" :"$ 354.14B" ,
+			"cVal" :"$ 356.51"
+		},
+		{	
+			"id" :11 ,
+			"name" :"Walt Disney Company" ,
+			"symbol" :"DIS" ,
+			"mCap" :"$ 346.96B" ,
+			"cVal" :"$ 191" 
+		},
+		{	
+			"id" :12 ,
+			"name" :"Bank of America Corporation" ,
+			"symbol" :"BAC" ,
+			"mCap" :"$ 332.63B" ,
+			"cVal" :"$ 38.53" 
+		},
+		{	
+			"id" :13 ,
+			"name" :"Nvidia Corp" ,
+			"symbol" :"NVDA" ,
+			"mCap" :"$ 318.57B" ,
+			"cVal" :"$ 513.83"
+		},
+		{	
+			"id" :14 ,
+			"name" :"Home Depot Inc" ,
+			"symbol" :"HD" ,
+			"mCap" :"$ 311.24B" ,
+			"cVal" : "$ 289"
+		},
+	{	
+		"id" :15 ,
+		"name" :"Papal Holdings" ,
+		"symbol" :"PYPL" ,
+		"mCap" :"$ 282.58B" ,
+		"cVal" :"$ 241"  
+	},
+	{	
+		"id" :16 ,
+		"name" :"Intel Corp" ,
+		"symbol" :"INTC" ,
+		"mCap" :"$ 258.99B" ,
+		"cVal" :"$ 63.76" 
+	},
+	{	
+		"id" :17 ,
+		"name" :"Verizon Communications" ,
+		"symbol" :"VZ" ,
+		"mCap" :"$ 232.73B" ,
+		"cVal" :"$ 56.24" 
+	},
+	{	
+		"id" :18 ,
+		"name" :"Netflix Inc" ,
+		"symbol" :"NFLX" ,
+		"mCap" :"$ 226.84B" ,
+		"cVal" :"$ 512" 
+	},
+	{	
+		"id" :19 ,
+		"name" :"Coca Cola Co" ,
+		"symbol" :"KO" ,
+		"mCap" :"$ 218.95B" ,
+		"cVal" :"$ 50.81" 
+	},
+	{	
+		"id" :20 ,
+		"name" :"Nike Inc" ,
+		"symbol" :"NKE" ,
+		"mCap" :"$ 216.75B" ,
+		"cVal" :"$ 137.49" 
+	},
+	{	
+		"id" : 21,
+		"name" :"AT&T Inc" ,
+		"symbol" :"T" ,
+		"mCap" :"$ 212.44B" ,
+		"cVal" :"$ 29.76" 
+	},
+	{	
+		"id" :22,
+		"name" :"Adobe Inc" ,
+		"symbol" :"ADBE" ,
+		"mCap" :"$ 211.62B" ,
+		"cVal" :"$ 441"
+	},
+	{	
+		"id" :23 ,
+		"name" :"Cisco syster Inc" ,
+		"symbol" :"CSCO" ,
+		"mCap" :"$ 206.78B" ,
+		"cVal" :"$ 48.98"
+	},
+	{	
+		"id" :24 ,
+		"name" :"Chevron Corporation" ,
+		"symbol" :"CVX" ,
+		"mCap" :"$ 199.14B" ,
+		"cVal" :"$ 103"
+	},
+	{	
+		"id" :25 ,
+		"name" :"Pfizer Inc",
+		"symbol" :"PFE" ,
+		"mCap" :"$ 198.19B" ,
+		"cVal" :"$ 35.53"
+	},
+	{	
+		"id" : 26,
+		"name" :"Merck & Co Inc" ,
+		"symbol" :"MRC" ,
+		"mCap" :"$ 196.12B" ,
+		"cVal" :"$ 77.51" 
+	},
+	{	
+		"id" :27 ,
+		"name" :"Salesforce.com inc" ,
+		"symbol" :"CRM" ,
+		"mCap" :"$ 195.43B" ,
+		"cVal" :"$ 212"
+	},
+	{	
+		"id" :28 ,
+		"name" :"Broadcom Inc" ,
+		"symbol" :"AVGO" ,
+		"mCap" :"$ 193.72B" ,
+		"cVal" :"$ 474"
+	},{	
+		"id" :29 ,
+		"name" :"Oracle Corp" ,
+		"symbol" :"ORCL" ,
+		"mCap" :"$ 191.06B" ,
+		"cVal" :"$ 66.26" 
+	},	{	
+		"id" :30 ,
+		"name" :"Pepsico Inc" ,
+		"symbol" :"PEP" ,
+		"mCap" :"$ 185.55B" ,
+		"cVal" :"$ 134" 
+	},
+	{	
+		"id" :31 ,
+		"name" :"Abbvie Inc" ,
+		"symbol" :"ABBV" ,
+		"mCap" :"$ 182.62B" ,
+		"cVal" :" 103" 
+	},
+	{	
+		"id" :32 ,
+		"name" :"Accenture PLC" ,
+		"symbol" :"ACN" ,
+		"mCap" :"$ 175.44B" ,
+		"cVal" :"$ 263.78" 
+	},
+	{	
+		"id" :33 ,
+		"name" :"Mcdonald's Corporation" ,
+		"symbol" :"MCD" ,
+		"mCap" :"$ 165.84B" ,
+		"cVal" :"$ 222.44"
+	},
+	{	
+		"id" :34 ,
+		"name" :"Wells Fargo & Company" ,
+		"symbol" :"WFC" ,
+		"mCap" :"$163.83B"  ,
+		"cVal" :"$ 39.63" 
+	},
+	{	
+		"id" :35 ,
+		"name" :"Texas Instruments Inc" ,
+		"symbol" :"TXN" ,
+		"mCap" :"$ 162.43B" ,
+		"cVal" :"$ 175"
+	},
+	{	
+		"id" : 36,
+		"name" :"Danaher Corp" ,
+		"symbol" :"DHR" ,
+		"mCap" :"$ 157.44B" ,
+		"cVal" :" 221.06" 
+	},
+	{	
+		"id" :37 ,
+		"name" :"Medtronic PLC" ,
+		"symbol" :"MDT" ,
+		"mCap" :"$ 157.21B" ,
+		"cVal" :"$ 116" 
+	},
+	{	
+		"id" :38 ,
+		"name" :"Citigroup INC" ,
+		"symbol" :"C" ,
+		"mCap" :"$ 152.39B" ,
+		"cVal" :"$73"
+	},
+	{	
+		"id" :39,
+		"name" :"Boeing Co",
+		"symbol" :"BA",
+		"mCap" :"$ 149.30B" ,
+		"cVal" :"$ 255.82"
+	},
+	{	
+		"id" :40,
+		"name" :"Qualcomm Inc",
+		"symbol" :"QCOM",
+		"mCap" :"$ 148.3B" ,
+		"cVal" :"$ 131"
+	},
+	{	
+		"id" :41 ,
+		"name" :"Honeywell International" ,
+		"symbol" :"HON" ,
+		"mCap" :"$ 148.07B" ,
+		"cVal" :"$ 212" 
+	},
+	{	
+		"id" :42 ,
+		"name" :"Costco Wholesale Corp" ,
+		"symbol" :"COST" ,
+		"mCap" :"$ 145.55B" ,
+		"cVal" :"328" 
+	},
+	
+	{	
+		"id" :43 ,
+		"name" :"Amgen Inc" ,
+		"symbol" :"AMGN" ,
+		"mCap" :"$ 142B" ,
+		"cVal" :"$ 245.94"
+	},
+	{	
+		"id" :44 ,
+		"name" :"Linde PLC" ,
+		"symbol" :"LIN" ,
+		"mCap" :"$ 140.70" ,
+		"cVal" :"$ 269"
+	},
+    {	
+		"id" :45 ,
+		"name" :"Shopify Inc" ,
+		"symbol" :"SHOP" ,
+		"mCap" :"$ 138B" ,
+		"cVal" :"1120.95"
+	},
+	{	
+		"id" :46 ,
+		"name" :"Nextera Energy Inc"  ,
+		"symbol" :"NEE" ,
+		"mCap" :"$ 138.83B" ,
+		"cVal" :"$ 70.84"
+	},
+	{	
+		"id" :47 ,
+		"name" :"Royal Bank of Canada" ,
+		"symbol" :"RY" ,
+		"mCap" :"$ 132.75B" ,
+		"cVal" :"$ 93.20"
+	},
+	{	
+		"id" :48 ,
+		"name" :"Morgan Stanley" ,
+		"symbol" :"MS" ,
+		"mCap" :"$ 130.77B" ,
+		"cVal" :"$ 82.94"
+	},
+	{	
+		"id" :49 ,
+		"name" :"Starbucks corp" ,
+		"symbol" :"SBUX" ,
+		"mCap" :"$ 125.19B" ,
+		"cVal" :"$ 106.34"
+	},
+	{	
+		"id" :50 ,
+		"name" :"Airbnb Inc" ,
+		"symbol" :"ABNB" ,
+		"mCap" :"$ 116.48B" ,
+		"cVal" :"$ 194.39"
+	},
+	{	
+			"id" : 51,
+			"name" : "Google",
+			"symbol" : "Googl",
+			"mCap" : "$ 1.366T ",
+			"cVal" : "$ 2026 "
+		},
+	 {	
+			"id" : 52,
+			"name" : "Facebook" ,
+			"symbol" : "Fb",
+			"mCap" : "$ 826.1B" ,
+			"cVal" : "$ 290"
+		},
+		{	
+			"id" : 53,
+			"name" : "Amazon" ,
+			"symbol" : "AMZN" ,
+			"mCap" : "$ 1.548T",
+			"cVal" : "$ 3074"
+		}
+	
+	
+	
+	
+	
+	]
+}
